@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>TUGAS CODING MUM I
-    </title>
-  </head>
-  <body>
 Pertanyaan-Jawaban:
 1.	Deskripsikan website yg ingin dibuat
 Jawab:
@@ -36,7 +29,6 @@ Jawab:
 •	www.toko-organik.com
 •	www.abonjamurailani.blogspot.com
 
-
 3.	Sebutkan bagian-bagian atau halaman-halaman apa saja yg ada di wesite-website tersebut!
 Jawab:
 •	Home
@@ -61,5 +53,3 @@ Jawab:
 •	Login
 •	Info
 •	Price range
-  </body>
-</html>
