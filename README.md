@@ -23,38 +23,38 @@ Pada kolom sebelah kiri terdiri dari:
 -KATEGORI PRODUK, memudahkan melihat kategori produk yg kami jual, juga agar konsumen langsung tertuju pada produk yg ingin dibeli
 
 Untuk kolom kecil sebelah terdiri dari:
-•	LOGO SOSMED : FP, IG, 	dll
-•	PROMO, apabila pada saat itu ada produk yg sedang promo bisa ditampilkan
-•	LOGO BANK, menampilkan logo bank yg digunakan untuk pembayaran
-•	LOGO EKSPEDISI, menampilkan logo ekspedisi yg digunakan untuk pengiriman
+  -LOGO SOSMED : FP, IG, 	dll
+  -PROMO, apabila pada saat itu ada produk yg sedang promo bisa ditampilkan
+  -LOGO BANK, menampilkan logo bank yg digunakan untuk pembayaran
+  -LOGO EKSPEDISI, menampilkan logo ekspedisi yg digunakan untuk pengiriman
 
 2.	Cari referensi website yang berhubungan dengan yang diinginkan (min. 3 website)
 Jawab:
-•	www.snackku-retailindo.com
-•	www.toko-organik.com
-•	www.abonjamurailani.blogspot.com
+  -www.snackku-retailindo.com
+  -www.toko-organik.com
+  -www.abonjamurailani.blogspot.com
 
 3.	Sebutkan bagian-bagian atau halaman-halaman apa saja yg ada di wesite-website tersebut!
 Jawab:
-•	Home
-•	Tentang kami
-•	Produk
-•	Cara pemesanan
-•	Promo
-•	Faq
-•	Lokasi kami
-•	Galeri
-•	Testimonial
-•	Pricelist
-•	Kategori
-•	Profil sosmed
-•	Order cepat
-•	Pencarian
-•	Katalog
-•	Traffict pengnjung
-•	Konfirmasi
-•	Pembayaran
-•	Keranjang belanja
-•	Login
-•	Info
-•	Price range
+  -Home
+  -Tentang kami
+  -Produk
+  -Cara pemesanan
+  -Promo
+  -Faq
+  -Lokasi kami
+  -Galeri
+  -Testimonial
+  -Pricelist
+  -Kategori
+  -Profil sosmed
+  -Order cepat
+  -Pencarian
+  -Katalog
+  -Traffict pengnjung
+  -Konfirmasi
+  -Pembayaran
+  -Keranjang belanja
+  -Login
+  -Info
+  -Price range
